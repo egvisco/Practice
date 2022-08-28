@@ -10,8 +10,10 @@ body {
 	color: #ffffff;
 	word-wrap:break-word !important;
 	font-family: 'Open Sans', sans-serif;
-	}
-
+        background-image: https://github.com/egvisco/Practice/blob/main/26917.jpg("26917.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+}
 h1 {
 	font-size: 60px;
 	text-align: center;
